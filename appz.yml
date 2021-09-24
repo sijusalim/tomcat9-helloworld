@@ -20,9 +20,9 @@ properties:
   MOD_CLUSTER: modcluster-1-3:6666
   title: Tomcat HelloWorld - Basic-AppZ 2.0.3 
   head_color : Blue
-  threads: 5
+  threads: 2
   delay: 15
   next: 15
-  download: true
+  download: false
   random : true
   nano : 83
